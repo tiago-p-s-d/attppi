@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ExibeMensagemComponent } from './exibe-mensagem/exibe-mensagem.component';
+import { ExibeMensagemComponent } from './componentes/exibe-mensagem/exibe-mensagem.component';
 
 @NgModule({
   declarations: [
